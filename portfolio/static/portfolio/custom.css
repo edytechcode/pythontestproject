@@ -1,0 +1,32 @@
+body{
+    background-color: #fffaf3;
+}
+
+.fb ul{
+    list-style: none;
+}
+
+/*Home page*/
+
+.mypic{
+    height: 300px;
+    width: auto;
+}
+
+.prj{
+    color: blueviolet;
+    border-radius: 30px;
+    background-color: #66523e;
+}
+
+.resumeblog{
+
+}
+
+/*Footer*/
+.fb{
+    background-color: #daffff;
+    height: 200px;
+    border-radius: 30px;
+    vertical-align: baseline;
+}
